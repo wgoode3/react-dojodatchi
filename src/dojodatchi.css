@@ -1,0 +1,17 @@
+.card {
+    width: 600px;
+    margin: 50px auto;
+}
+
+.image img {
+    width: 300px;
+    margin: 0 auto;
+}
+
+.image p {
+    text-align: center;
+}
+
+.is-medium {
+    height: 60px;
+}
