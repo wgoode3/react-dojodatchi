@@ -1,5 +1,6 @@
 {
   "name": "dojodatchi",
+  "homepage" : "http://wgoode3.github.io/react-dojodatchi",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
